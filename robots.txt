@@ -1,0 +1,4 @@
+User-agent: Googlebot
+Disallow:
+
+sitemap: https://amirhosseinmissme.github.io/sitemap.xml
