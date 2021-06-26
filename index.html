@@ -35,7 +35,6 @@
       .containers {
          width: 100%;
          background-color: rgb(231, 231, 231);
-         border-radius: 20px;
       }
       .cpp, .java, .python, .c, .ASP, .ML, .NN, .django {
          text-align: center;
@@ -78,6 +77,36 @@
          width: 75%;
          background-color: #369;
       }
+
+      input[type=text], select, textarea {
+        width: 100%;
+        padding: 12px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+        margin-top: 6px;
+        margin-bottom: 16px;
+        resize: vertical;
+      }
+
+      input[type=submit] {
+        background-color: #369;
+        color: white;
+        padding: 12px 20px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+      }
+
+      input[type=submit]:hover {
+        background-color: rgb(44, 37, 255);
+      }
+
+      .container {
+        background-color: #ffffff;
+        padding: 20px;
+      }
+
 
    </style>
 
@@ -129,6 +158,18 @@
                 <li class="nav-item">
                   <a href="#certificate" class="nav-link">
                     <span class="d-inline-block mr-3">Certificates</span>
+                    <span class="d-inline-block tm-white-rect"></span>
+                  </a>
+                </li>
+                <li class="nav-item">
+                  <a href="#it1" class="nav-link">
+                    <span class="d-inline-block mr-3">IT project</span>
+                    <span class="d-inline-block tm-white-rect"></span>
+                  </a>
+                </li>
+                <li class="nav-item">
+                  <a href="#it2" class="nav-link">
+                    <span class="d-inline-block mr-3">IT course</span>
                     <span class="d-inline-block tm-white-rect"></span>
                   </a>
                 </li>
@@ -442,6 +483,78 @@
               </div>         
             </section>
           </div>
+
+          <div class="tm-section-wrap bg-white">
+            <section id="it1" class="row tm-section">
+              <div class="col-12">
+                <div class="w-100 tm-double-border-1 tm-border-gray">
+                    <div class="tm-double-border-2 tm-border-gray tm-box-pad">    
+                      <p>
+                        <b>This Project Is Done For IT Spring 2021</b>
+                        <hr>
+                        This project is a practice for getting familiar with internet.
+                        In this project I learned how to make out personal website on internet. Some actions such as SEO were new.
+                        This website uses <a href="https://github.com/">github</a> free domain and server.
+
+                        <br>
+                        <b>About my Grounded theory project</b>
+                        <hr>
+                        For this project we had to to interview a company. I choosed Idea Varsan System company. I interviewed nearly 10 people in compangy, from developer to 
+                        manager. Based on their speech I made a grounded theroy which was like below:
+                        <br>
+                        <img src="img/gtp.png" alt="Our Work Image" class="img-fluid" style="margin: 12px;">
+                        
+                        You can download full project <a href="gtp.pdf">here</a>. 
+                      </p>             
+                    </div>     
+                 </div>  
+              </div>       
+            </section>
+          </div>
+
+          <div class="tm-section-wrap bg-white">
+            <section id="it2" class="row tm-section">
+              <div class="col-12">
+                <div class="w-100 tm-double-border-1 tm-border-gray">
+                    <div class="tm-double-border-2 tm-border-gray tm-box-pad">    
+                      <p>
+                        <b>What I have learned during IT course</b>
+                        <hr>
+                        I have learned a bunch of new suff in this course such as Grounded theory which is is a systematic methodology that has been largely, but not exclusively,
+                        applied to qualitative research conducted by social scientists. The methodology involves the construction of hypotheses and theories through the collecting and analysis of data.
+                        Also we had a project about this topic.
+                        <br>
+                        Also there was other topics such as ICT and ICT rules. Furthermore, we has a conversatin about E-Learning which in that, My friend and I researched about this topic and 
+                        present Iran ISIRI 10000 standart and compared it with University of Tehran e-learning system which is e-learn.
+                        <br>
+                        Overall we had a very useful course.
+                      </p>             
+                    </div>     
+                 </div>  
+              </div>       
+            </section>
+          </div>
+
+          <div class="container tm-section-wrap">
+            <form action="https://formsubmit.co/amirhossein.abaskohi@gmail.com" style="margin-left: 37px;" method="POST">          
+              
+              <input type="hidden" name="_subject" value="New email from your website">
+
+              <label for="name">Name</label>
+              <input type="text" id="name" name="name" placeholder="Your name.." required>
+
+              <label for="email">Email</label>
+              <input type="text" id="email" name="email" placeholder="Your email.." required>
+              
+              <input type="hidden" name="_next" value="thankyou.html">
+
+              <label for="message">Message</label>
+              <textarea id="message" name="message" placeholder="You message ..." style="height:200px"></textarea>
+          
+              <input type="submit" value="Submit">
+            </form>
+          </div>
+          
         </main>        
       </div>
     </div>
