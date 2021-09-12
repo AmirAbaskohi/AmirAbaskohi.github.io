@@ -1,7 +1,2 @@
-User-agent: Googlebot
-Disallow: /nogooglebot/
-
-User-agent: *
+User-Agent: *
 Allow: /
-
-Sitemap: https://amirabaskohi.github.io/sitemap.xml
