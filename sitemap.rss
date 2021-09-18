@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
+<rss version="2.0">
+  <channel>
+    <title>-</title>
+    <link>https://amirabaskohi.github.io</link>
+    <description />
+    <item>
+      <guid>https://amirabaskohi.github.io/</guid>
+      <title>Amirhossein Abaskohi</title>
+      <link>https://amirabaskohi.github.io/</link>
+      <description>Amirhossein Abaskohi personal website</description>
+      <pubDate>Sat, 18 Sep 2021 07:07:20 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://amirabaskohi.github.io</guid>
+      <title>Amirhossein Abaskohi</title>
+      <link>https://amirabaskohi.github.io</link>
+      <description>Amirhossein Abaskohi personal website</description>
+      <pubDate>Sat, 18 Sep 2021 07:07:20 Z</pubDate>
+    </item>
+  </channel>
+</rss>
