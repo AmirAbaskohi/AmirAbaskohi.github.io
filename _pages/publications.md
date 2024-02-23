@@ -23,7 +23,7 @@ Proceeding of Annual Meeting of the Association for Computational Linguistics (A
 [3] __Amirhossein Abaskohi__\*, Alireza Salemi\*, Sara Tavakoli, Yadollah Yaghoobzadeh, Azadeh Shakery  
 **PEACH: Pre-Training Sequence-to-Sequence Multilingual Models for Translation with Semi-Supervised Pseudo-Parallel Document Generation**  
 Proceedings of the The Sixth Workshop on Technologies for Machine Translation of Low-Resource Languages (LoResMT 2023) @ EACL 2023.  
-[\[Paper\]](https://aclanthology.org/2023.loresmt-1.3.pdf)
+[\[Paper\]](https://aclanthology.org/2023.loresmt-1.3.pdf) / [\[Code\]](https://github.com/AmirAbaskohi/PEACH)
 
 [4] Taha ShabaniMirzaei, Houmaan Chamani, __Amirhossein Abaskohi__, Zhivar Sourati Hassan Zadeh, and Behnam Bahrak  
 **A Large-Scale Analysis of Persian Tweets Regarding Covid-19 Vaccination**  
