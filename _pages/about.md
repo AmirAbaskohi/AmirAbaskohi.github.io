@@ -1,49 +1,42 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Greetings! I'm Amir, short for Amirhossein Abaskohi (امیرحسین عباسکوهی). Feel free to call me Amir 😄.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I am currently embarking on my journey as a first-year MSc student at the University of British Columbia, under the guidance of Prof. Giuseppe Carenini. My academic pursuit follows the successful completion of my BSc degree in Computer Engineering from the esteemed University of Tehran. During my undergraduate studies, I had the privilege of collaborating with [Prof. Azadeh Shakeri](https://ece.ut.ac.ir/en/~shakery) and [Prof. Yadollah Yaghoobzadeh](https://yyaghoobzadeh.github.io/), enriching my academic experience.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+My research interests span across natural language processing, machine learning, linguistics, and human-centered artificial intelligence. Specifically, I am fascinated by natural language inference and reasoning, multimodal reasoning, controller generation, and information retrieval. My research journey commenced during my second year of undergraduate studies, and since then, I have passionately delved into various research problems. This endeavor has resulted in several published papers across diverse areas, reflecting my commitment to exploring new frontiers of knowledge.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Beyond academia, I am enthusiastic about knowledge dissemination and community engagement. I actively share insights and discoveries through platforms like [Medium](https://medium.com/@amirhossein.abaskohi) and [YouTube](https://www.youtube.com/@amirhossein_abaskohi), fostering dialogue and knowledge exchange. In addition to my academic pursuits, I have honed my skills in software engineering through practical experiences. I have contributed to back-end development projects at reputable companies in Iran and Canada, including [System Group](https://en.systemgroup.net/) in Summer 2022 and [MateMachine](https://matemachine.com/) for one year since November 2022.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Outside of my academic and professional endeavors, I find solace in the pages of novels and comics 📚, where imagination knows no bounds 🌟. This passion for literature fuels my creativity and provides a welcomed escape from the rigors of academia. Although I don't venture into nature regularly, I find moments to immerse myself in its beauty from time to time. Being in Vancouver, a city renowned for its breathtaking natural landscapes, offers ample opportunities for nature lovers like me to reconnect with the outdoors. There's a serene allure to the great outdoors that captivates me—a sense of tranquility that's hard to replicate elsewhere. Whether it's a leisurely hike through the woods, a peaceful stroll along a secluded beach, or simply pausing to admire the vibrant colors of a sunset, these experiences rejuvenate my spirit and remind me of the inherent wonders of the natural world. Despite life's busyness, I cherish these intermittent encounters with nature, each one leaving an indelible mark on my soul.
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+I am happy to answer any questions anmd chat about research/collboration! Reach me at aabaskoh@ubc.ca.
 
-**Markdown generator**
+## News
+- 2024.02: Our paper titled "Benchmarking ChatGPT for Persian: A Preliminary Study" has been accepted for presentation at [LREC-CoLing 2024](https://lrec-coling-2024.org/).
+- 2023.09: I started my Master's Degree at UBC's CS Department 🥳🥳.
+- 2023.05: Out paper with the title "LM-CPPF: Paraphrasing-Guided Data Augmentation for Contrastive Prompt-Based Few-Shot Fine-Tuning"
+  has been accepted for [ACL 2023](https://2023.aclweb.org/).
+- 2023.03: Our paper with the title "PEACH: Pre-Training Sequence-to-Sequence Multilingual Models for Translation with Semi-Supervised Pseudo-Parallel Document Generation"
+  has been accepted for [LoResMT@EACL 2023](https://sites.google.com/view/loresmt/).
+- 2023.02: I completed my B.Sc. from the University of Tehran's ECE department.
+- 2022.09: My project with title "Presenting A Multilingual Sequence-to-Sequence Language Model For Machine Translation Using Supervised Parallel Document Generation" has been awarded as the best undergraduate project. [<a href="./img/bestproj.jpg">Image</a>]
+- 2022.03: Our paper entitled "UTNLP at SemEval-2022 Task 6: A Comparative Analysis of Sarcasm Detection Using Generative-based and Mutation-based Data Augmentation" has been accepted by [SemEval@NAACL2022](https://semeval.github.io/SemEval2022/).
+- 2021.09: I have been accepted for 1-year internship under supervision of Prof. <a href="https://rooshenas.github.io/">Pedram Rooshenas</a>.
+- 2021.07: I have been accepted for summer internship at <a href="https://worlddatascience.tech">World Data Science Institute</a>.
+- 2020.11: I have been selected as a Iran's Elites Foundation member.
+- 2019.09: I was awarded the Scholarship 2018-2019 by the University of Tehran.
+- 2018.09: Started my B.Sc. at the University of Tehran.
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+## Misc
+- I have a deep-seated fascination with languages and a genuine passion for learning new ones. Exploring the intricacies of different linguistic structures and cultural nuances has always captivated me. This love for languages naturally led me to delve into the field of natural language processing. Understanding how computers can comprehend and generate human language, despite its complexities and variations, has become a driving force behind my academic pursuits. The intersection of linguistics, computer science, and artificial intelligence in NLP offers a unique opportunity to bridge my interests and contribute to groundbreaking research in a field that continues to push the boundaries of what's possible.
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+- In my downtime, you'll often find me experimenting in the kitchen, exploring new recipes, and indulging my culinary curiosity. Cooking allows me to express my creativity while also satisfying my love for good food. From homemade pasta dishes to decadent desserts, I enjoy the process of combining flavors and ingredients to create delicious meals that bring joy to those around me.
