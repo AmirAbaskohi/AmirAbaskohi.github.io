@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Amirhossein"
+title                    : "Amirhossein's Homepage"
 title_separator          : "-"
 name                     : &name "Amirhossein Abaskohi"
 description              : &description "personal description"
@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/?authuser=1#d=gs_hdr_drw&t=1708705883418"
+  googlescholar    : "https://scholar.google.com/citations?user=Xn--pmkAAAAJ"
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
