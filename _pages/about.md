@@ -27,10 +27,10 @@ I am happy to answer any questions anmd chat about research/collboration! Reach 
 - 2023.03: Our paper with the title "PEACH: Pre-Training Sequence-to-Sequence Multilingual Models for Translation with Semi-Supervised Pseudo-Parallel Document Generation"
   has been accepted for [LoResMT@EACL 2023](https://sites.google.com/view/loresmt/).
 - 2023.02: I completed my B.Sc. from the University of Tehran's ECE department.
-- 2022.09: My project with title "Presenting A Multilingual Sequence-to-Sequence Language Model For Machine Translation Using Supervised Parallel Document Generation" has been awarded as the best undergraduate project. [<a href="./img/bestproj.jpg">Image</a>]
+- 2022.09: My project with title "Presenting A Multilingual Sequence-to-Sequence Language Model For Machine Translation Using Supervised Parallel Document Generation" has been awarded as the best undergraduate project.
 - 2022.03: Our paper entitled "UTNLP at SemEval-2022 Task 6: A Comparative Analysis of Sarcasm Detection Using Generative-based and Mutation-based Data Augmentation" has been accepted by [SemEval@NAACL2022](https://semeval.github.io/SemEval2022/).
-- 2021.09: I have been accepted for 1-year internship under supervision of Prof. <a href="https://rooshenas.github.io/">Pedram Rooshenas</a>.
-- 2021.07: I have been accepted for summer internship at <a href="https://worlddatascience.tech">World Data Science Institute</a>.
+- 2021.09: I have been accepted for 1-year internship under supervision of [Prof. Pedram Rooshenas](https://rooshenas.github.io/).
+- 2021.07: I have been accepted for summer internship at [World Data Science Institute](https://worlddatascience.tech).
 - 2020.11: I have been selected as a Iran's Elites Foundation member.
 - 2019.09: I was awarded the Scholarship 2018-2019 by the University of Tehran.
 - 2018.09: Started my B.Sc. at the University of Tehran.
