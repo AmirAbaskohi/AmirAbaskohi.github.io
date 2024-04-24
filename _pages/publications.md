@@ -10,12 +10,13 @@ author_profile: true
 {% endif %}
 
 ## 2024 
-[1] __Amirhossein Abaskohi\*__, Sara Baruni, Mostafa Masoudi, Nesa Abbasi, Mohammad Hadi Babalou, Ali Edalat, Sepehr Kamahi, Samin Mahdizadeh Sani, Nikoo Naghavian, Danial Namazifard, Pouya Sadeghi, and Yadollah Yaghoobzadeh                   
+[1] __Amirhossein Abaskohi__, Sara Baruni, Mostafa Masoudi, Nesa Abbasi, Mohammad Hadi Babalou, Ali Edalat, Sepehr Kamahi, Samin Mahdizadeh Sani, Nikoo Naghavian, Danial Namazifard, Pouya Sadeghi, and Yadollah Yaghoobzadeh                   
 **Benchmarking Large Language Models for Persian: A Preliminary Study Focusing on ChatGPT**   
 LREC-COLING 2024
+<br/>
 [\[Paper\]](https://arxiv.org/abs/2404.02403) / [\[Code\]](https://github.com/Ipouyall/Benchmarking_ChatGPT_for_Persian) 
 
-[2] __Amirhossein Abaskohi\*__, Amirhossein Dabiriaghdam, Lele Wang, Giuseppe Carenini         
+[2] __Amirhossein Abaskohi\*__, Amirhossein Dabiriaghdam\*, Lele Wang, Giuseppe Carenini         
 **BCAmirs at SemEval-2024 Task 4: Beyond Words: A Multimodal and Multilingual Exploration of Persuasion in Memes**   
 Proceedings of the 18th International Workshop on Semantic Evaluation (SemEval-2024) @ NAACL 2024.
 <br/>
@@ -24,6 +25,7 @@ Proceedings of the 18th International Workshop on Semantic Evaluation (SemEval-2
 [3] Pouya Sadeghi\*, __Amirhossein Abaskohi\*__, Yadollah Yaghoobzadeh                   
 **uTeBC-NLP at SemEval-2024 Task 9: Can LLMs be Lateral Thinkers?**   
 Proceedings of the 18th International Workshop on Semantic Evaluation (SemEval-2024) @ NAACL 2024.
+<br/>
 [\[Paper\]](https://arxiv.org/abs/2404.02474) / [\[Code\]](https://github.com/Ipouyall/Can-LLMs-be-Lateral-Thinkers)	  
 
 ## 2023
