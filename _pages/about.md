@@ -21,7 +21,9 @@ Outside of my academic and professional endeavors, I find solace in the pages of
 I am happy to answer any questions anmd chat about research/collboration! Reach me at aabaskoh@ubc.ca.
 
 ## News
-- 2024.02: Our paper titled "Benchmarking ChatGPT for Persian: A Preliminary Study" has been accepted for presentation at [LREC-CoLing 2024](https://lrec-coling-2024.org/).
+- 2024.03: Our paper entitled "BCAmirs at SemEval-2024 Task 4: Beyond Words: A Multimodal and Multilingual Exploration of Persuasion in Memes" has been accepted by [SemEval@NAACL2024](https://semeval.github.io/SemEval2024/).
+- 2024.03: Our paper entitled "uTeBC-NLP at SemEval-2024 Task 9: Can LLMs be Lateral Thinkers?" has been accepted by [SemEval@NAACL2024](https://semeval.github.io/SemEval2024/).
+- 2024.02: Our paper titled "Benchmarking Large Language Models for Persian: A Preliminary Study Focusing on ChatGPT" has been accepted for presentation at [LREC-CoLing 2024](https://lrec-coling-2024.org/).
 - 2023.09: I started my Master's Degree at UBC's CS Department 🥳🥳.
 - 2023.05: Out paper with the title "LM-CPPF: Paraphrasing-Guided Data Augmentation for Contrastive Prompt-Based Few-Shot Fine-Tuning"
   has been accepted for [ACL 2023](https://2023.aclweb.org/).
