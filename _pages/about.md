@@ -46,3 +46,5 @@ I am happy to answer any questions and chat about research/collboration! Reach m
 - I have always been fascinated by languages, which led me to explore natural language processing. Combining linguistics, computer science, and AI, NLP allows me to study how computers understand and generate human language—a field that inspires my academic journey.
 
 - In my free time, I enjoy cooking, even though I’m not an expert. I love trying out different dishes, from Persian foods to classics like lasagna, and experimenting with flavors to create something delicious.
+  
+- In addition to my academic and professional interests, I’m a big fan of gaming—especially story-driven games that immerse you in captivating narratives. I have a particular love for those in the survival-horror genre, where the thrill and puzzles keep me hooked. If you’re a gamer too, feel free to check out my [Steam profile](https://steamcommunity.com/profiles/76561199162754559)!
