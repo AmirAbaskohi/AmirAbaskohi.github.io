@@ -6,6 +6,7 @@ author_profile: true
 ---
 University of British Columbia
 
+- **CPSC 322: Introduction to Artificial Intelligence**, Instructor: Mehrdad Oveisi, [Fall 2024](https://vancouver.calendar.ubc.ca/course-descriptions/courses/cpsc-322-introduction-artificial-intelligence)
 - **CPSC 322: Introduction to Artificial Intelligence**, Instructor: Mehrdad Oveisi, [Spring 2024](https://vancouver.calendar.ubc.ca/course-descriptions/courses/cpsc-322-introduction-artificial-intelligence)
 - **CPSC 322: Introduction to Artificial Intelligence**, Instructor: Jordon Johnson, [Fall 2023](https://vancouver.calendar.ubc.ca/course-descriptions/courses/cpsc-322-introduction-artificial-intelligence)
 
