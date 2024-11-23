@@ -21,7 +21,7 @@ When I’m not working or studying, I love getting lost in the world of novels a
 I am happy to answer any questions and chat about research/collboration! Reach me at <a href="mailto:aabaskoh@cs.ubc.ca">aabaskoh@cs.ubc.ca</a>.
 
 ## News
-- 2024.11: I will be attending NeurIPS 2024 this November and would be delighted to meet and connect with you there!
+- 2024.11: I will be attending NeurIPS 2024 and would be delighted to meet and connect with you there!
 - 2024.10: I’m excited to serve as a publicity chair for the [Future of NLP Workshop](https://nlp.cs.ubc.ca/future-of-nlp-workshop), where I’ll also present my recent research. I look forward to sharing it with you!
 - 2024.10: Our paper entitled "BigDocs: An Open and Permissively-Licensed Dataset for Training Multimodal Models on Document and Code Tasks" has been accepted by [RBFM@NeurIPS2024](https://asu-apg.github.io/rbfm/).
 - 2024.03: Our paper entitled "BCAmirs at SemEval-2024 Task 4: Beyond Words: A Multimodal and Multilingual Exploration of Persuasion in Memes" has been accepted by [SemEval@NAACL2024](https://semeval.github.io/SemEval2024/).
