@@ -13,6 +13,7 @@ author_profile: true
 [1] __Amirhossein Abaskohi__, Spandana Gella, Giuseppe Carenini, Issam H Laradji
 
 **FM<sup>2</sup>DS: Few-Shot Multimodal Multihop Data Synthesis with Knowledge Distillation for Question Answering**
+
 arXiv preprint arXiv:2412.07030 
 
 [\[Paper\]](https://www.arxiv.org/abs/2412.07030) / [\[Code\]](https://github.com/ServiceNow/FM2DS) / [\[Website\]](https://fm2ds.github.io/)
