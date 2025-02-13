@@ -21,6 +21,7 @@ When I’m not working or studying, I love getting lost in the world of novels a
 I am happy to answer any questions and chat about research/collboration! Reach me at <a href="mailto:aabaskoh@cs.ubc.ca">aabaskoh@cs.ubc.ca</a>.
 
 ## News
+- 2025.01: 2/2 of my papers: "BigDocs" and "InsightBench" were accepted for [ICLR 2025](ICLR 2025).
 - 2024.11: I will be attending NeurIPS 2024 and would be delighted to meet and connect with you there!
 - 2024.10: I’m excited to serve as a publicity chair for the [Future of NLP Workshop](https://nlp.cs.ubc.ca/future-of-nlp-workshop), where I’ll also present my recent research. I look forward to sharing it with you!
 - 2024.10: Our paper entitled "BigDocs: An Open and Permissively-Licensed Dataset for Training Multimodal Models on Document and Code Tasks" has been accepted by [RBFM@NeurIPS2024](https://asu-apg.github.io/rbfm/).
