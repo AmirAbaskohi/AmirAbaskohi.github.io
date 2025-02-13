@@ -15,12 +15,14 @@ author_profile: true
 **FM<sup>2</sup>DS: Few-Shot Multimodal Multihop Data Synthesis with Knowledge Distillation for Question Answering**
 
 arXiv preprint arXiv:2412.07030 
+
 [\[Paper\]](https://www.arxiv.org/abs/2412.07030) / [\[Code\]](https://github.com/ServiceNow/FM2DS) / [\[Website\]](https://fm2ds.github.io/)
 
 ## 2024 
 [2] Juan A. Rodriguez, Xiangru Jian, Siba Smarak Panigrahi, Tianyu Zhang, Aarash Feizi, Abhay Puri, Akshay Kalkunte, Francois Savard, __Amirhossein Abaskohi (Second Author With Equal Contribution)__, Ahmed Masry, Perampalli Shravan Nayak, Mahsa Massoud, Rabiul Awal, Pierre-André Noël, Mats L. Richter, Saverio Vadacchino, Shubham Agarwal, Sanket Biswas, Ying Zhang, Sathwik Tejaswi Madhusudhan, João Monteiro, Krishnamurthy (Dj) Dvijotham, Torsten Scholak, Nicolas Chapados, Sean Hughes, Tamer Özsu, Aishwarya Agrawal, Marco Pedersoli, Christopher Pal, Perouz Taslakian, David Vazquez, Issam H. Laradji, Spandana Gella, Sai Rajeswar Mudumba               
 **BigDocs: A Permissively-Licensed Dataset for Training Vision-Language Models on Document and Code Tasks**   
 ICLR 2025 & RBFM@NeurIPS 2024
+
 [\[Paper\]](https://openreview.net/forum?id=b1ivBPLb1n) / [\[Website\]](https://bigdocs.github.io/) / [\[Huggingface\]](https://huggingface.co/datasets/ServiceNow/BigDocs-Bench)
 
 [3] Gaurav Sahu, Abhay Puri, Juan Rodriguez, __Amirhossein Abaskohi__, Mohammad Chegini, Alexandre Drouin, Perouz Taslakian, Valentina Zantedeschi, Alexandre Lacoste, David Vazquez, Nicolas Chapados, Christopher Pal, Sai Rajeswar Mudumba, Issam Hadj Laradji                  
