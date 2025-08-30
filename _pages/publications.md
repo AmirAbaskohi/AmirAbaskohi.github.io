@@ -11,33 +11,22 @@ author_profile: true
 
 ## 2025
 [1] __Amirhossein Abaskohi__, Raymond Li, Chuyuan Li, Shafiq Joty, Giuseppe Carenini
-
 **CEMTM: Contextual Embedding-based Multimodal Topic Modeling**
-
 EMNLP 2025
-
 [\[Paper\]](https://openreview.net/forum?id=7NxbdFk80k)
 
 [2] Ali Salamatian, __Amirhossein Abaskohi__, Wan-Cyuan Fan, Mir Rayat Imtiaz Hossain, Leonid Sigal, Giuseppe Carenini 
-
 **ChartGaze: Enhancing Chart Understanding in LVLMs with Eye-Tracking Guided Attention Refinement**
-
 EMNLP 2025
 
 [3] __Amirhossein Abaskohi__, Spandana Gella, Giuseppe Carenini, Issam H Laradji
-
 **FM<sup>2</sup>DS: Few-Shot Multimodal Multihop Data Synthesis with Knowledge Distillation for Question Answering**
-
 EMNLP 2025
-
-[\[Paper\]](https://openreview.net/forum?id=KnjzylKUqQ) / [\[Code\]](https://github.com/ServiceNow/FM2DS) / [\[Website\]](https://fm2ds.github.io/)
+[\[Paper\]](https://openreview.net/forum?id=KnjzylKUqQ) / [\[Code\]](https://github.com/ServiceNow/FM2DS) / [\[Website\]](https://fm2ds.github.io/) / [\[Huggingface\]](https://huggingface.co/datasets/AmirhosseinAbaskohi/M2QA_Bench)
 
 [4] __Amirhossein Abaskohi__, Amrutha Varshini Ramesh, Shailesh Nanisetty, Chirag Goel, David Vazquez, Christopher Pal, Spandana Gella, Giuseppe Carenini, Issam H. Laradji
-
 **AgentAda: Skill-Adaptive Data Analytics for Tailored Insight Discovery**
-
 REALM@ACL 2025
-
 [\[Paper\]](https://arxiv.org/abs/2504.07421) / [\[Code\]](https://github.com/ServiceNow/AgentAda)
 
 
@@ -45,13 +34,11 @@ REALM@ACL 2025
 [5] Juan A. Rodriguez, Xiangru Jian, Siba Smarak Panigrahi, Tianyu Zhang, Aarash Feizi, Abhay Puri, Akshay Kalkunte, Francois Savard, __Amirhossein Abaskohi (Second Author With Equal Contribution)__, Ahmed Masry, Perampalli Shravan Nayak, Mahsa Massoud, Rabiul Awal, Pierre-André Noël, Mats L. Richter, Saverio Vadacchino, Shubham Agarwal, Sanket Biswas, Ying Zhang, Sathwik Tejaswi Madhusudhan, João Monteiro, Krishnamurthy (Dj) Dvijotham, Torsten Scholak, Nicolas Chapados, Sean Hughes, Tamer Özsu, Aishwarya Agrawal, Marco Pedersoli, Christopher Pal, Perouz Taslakian, David Vazquez, Issam H. Laradji, Spandana Gella, Sai Rajeswar Mudumba               
 **BigDocs: A Permissively-Licensed Dataset for Training Vision-Language Models on Document and Code Tasks**   
 ICLR 2025 & RBFM@NeurIPS 2024
-
 [\[Paper\]](https://openreview.net/forum?id=b1ivBPLb1n) / [\[Website\]](https://bigdocs.github.io/) / [\[Huggingface\]](https://huggingface.co/datasets/ServiceNow/BigDocs-Bench)
 
 [6] Gaurav Sahu, Abhay Puri, Juan Rodriguez, __Amirhossein Abaskohi__, Mohammad Chegini, Alexandre Drouin, Perouz Taslakian, Valentina Zantedeschi, Alexandre Lacoste, David Vazquez, Nicolas Chapados, Christopher Pal, Sai Rajeswar Mudumba, Issam Hadj Laradji                  
 **InsightBench: Evaluating Business Analytics Agents Through Multi-Step Insight Generation**   
 ICLR 2025 
-
 [\[Paper\]](https://arxiv.org/abs/2407.06423) / [\[Code\]](https://github.com/ServiceNow/insight-bench) 
 
 [7] __Amirhossein Abaskohi__, Sara Baruni, Mostafa Masoudi, Nesa Abbasi, Mohammad Hadi Babalou, Ali Edalat, Sepehr Kamahi, Samin Mahdizadeh Sani, Nikoo Naghavian, Danial Namazifard, Pouya Sadeghi, and Yadollah Yaghoobzadeh                   
