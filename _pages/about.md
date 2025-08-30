@@ -9,7 +9,7 @@ redirect_from:
 
 Greetings! I'm Amir, short for Amirhossein Abaskohi (امیرحسین عباسکوهی). Feel free to call me Amir 😄.
 
-I am currently embarking on my journey as a first-year PhD student at the University of British Columbia, under the supervision of [Prof. Giuseppe Carenini](https://www.cs.ubc.ca/~carenini) and [Prof. Peter West](https://www.peterwest.ai/). I am part of the [UBC Natural Language Processing Group](https://nlp.cs.ubc.ca).
+I am currently embarking on my journey as a first-year PhD student at the University of British Columbia, under the supervision of [Prof. Giuseppe Carenini](https://www.cs.ubc.ca/~carenini) and [Prof. Peter West](https://peterwestai.notion.site/). I am part of the [UBC Natural Language Processing Group](https://nlp.cs.ubc.ca).
 
 I earned my Master of Science in Computer Science from UBC with distinction (A+), under the supervision of [Prof. Giuseppe Carenini](https://www.cs.ubc.ca/~carenini) and [Prof. Issam H. Laradji](https://issamlaradji.github.io/). My master’s thesis, titled [*Multimodal Understanding of Long Documents: From Topic Modeling to Question Answering*](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0449900), explores two novel methods — **CEMTM**, a topic modeling technique for long documents that integrates contextual embeddings and cross-modal alignment, and **FM²DS**, a synthetic-data-generation pipeline to support multimodal, multi-hop question answering in low-resource settings.
 
