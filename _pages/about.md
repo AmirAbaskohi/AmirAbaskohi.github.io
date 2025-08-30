@@ -26,10 +26,10 @@ When I’m not working or studying, I love getting lost in the world of novels a
 I am happy to answer any questions and chat about research/collboration! Reach me at <a href="mailto:aabaskoh@cs.ubc.ca">aabaskoh@cs.ubc.ca</a>.
 
 ## News
-- 2025.08: Graduated with a Master’s degree in Computer Science from UBC 🥳🥳  
-- 2025.08: Three papers accepted to [EMNLP 2025](https://2025.emnlp.org/): **CEMTM** and **ChartGaze** (main proceedings), and **FM²DS** (Findings)  
-- 2025.08: Our paper *AgentAda: Skill-Adaptive Data Analytics for Tailored Insight Discovery* received the **Outstanding Paper Award** at [REALM@ACL 2025](https://realm-workshop.github.io/)  
-- 2025.05: *AgentAda: Skill-Adaptive Data Analytics for Tailored Insight Discovery* accepted to [REALM@ACL 2025](https://realm-workshop.github.io/) with an **oral presentation**  
+- 2025.08: Graduated with a Master’s degree in Computer Science from UBC 🥳🥳.
+- 2025.08: Three papers accepted to [EMNLP 2025](https://2025.emnlp.org/): **CEMTM** and **ChartGaze** (main proceedings), and **FM²DS** (Findings).
+- 2025.08: Our paper *AgentAda: Skill-Adaptive Data Analytics for Tailored Insight Discovery* received the **Outstanding Paper Award** at [REALM@ACL 2025](https://realm-workshop.github.io/). 
+- 2025.05: *AgentAda: Skill-Adaptive Data Analytics for Tailored Insight Discovery* accepted to [REALM@ACL 2025](https://realm-workshop.github.io/) with an **oral presentation**.
 - 2025.01: 2/2 of my papers: "BigDocs" and "InsightBench" were accepted for [ICLR 2025](ICLR 2025).
 - 2024.11: I will be attending NeurIPS 2024 and would be delighted to meet and connect with you there!
 - 2024.10: I’m excited to serve as a publicity chair for the [Future of NLP Workshop](https://nlp.cs.ubc.ca/future-of-nlp-workshop), where I’ll also present my recent research. I look forward to sharing it with you!
