@@ -11,6 +11,7 @@ author_profile: true
 
 ## 2025
 [1] __Amirhossein Abaskohi__, Tianyi Chen, Miguel Muñoz-Mármol, Curtis Fox, Amrutha Varshini Ramesh, Étienne Marcotte, Xing Han Lù, Nicolas Chapados, Spandana Gella, Christopher Pal, Alexandre Drouin, Issam H. Laradji
+
 **DRBench: A Realistic Benchmark for Enterprise Deep Research**
 
 arXiv preprint arXiv:2510.00172.
