@@ -6,7 +6,7 @@ author_profile: true
 ---
 University of British Columbia
 
-- **CPSC 422: Artificial Intelligence 2 - Intelligent Systems**, Instructor: Jordon Johnson, Spring 2025
+- **CPSC 422: Artificial Intelligence 2 - Intelligent Systems**, Instructor: Jordon Johnson, Spring 2026
 - **CPSC 213: Introduction to Computer Systems**, Instructor: Jordon Johnson, Fall 2025
 - **CPSC 422: Artificial Intelligence 2 - Intelligent Systems**, Instructor: Giuseppe Carenini, Spring 2025
 - **CPSC 322: Introduction to Artificial Intelligence**, Instructor: Mehrdad Oveisi, Fall 2024
