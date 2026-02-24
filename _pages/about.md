@@ -17,7 +17,7 @@ Prior to that, I earned my BSc in Computer Engineering from the University of Te
 
 My research interests span across natural language processing, linguistics, and human-centered artificial intelligence. Specifically, I am fascinated by natural language inference and reasoning, long multimodal document reasoning, controlled generation, information retrieval, and deep research–related challenges. My research journey commenced during my second year of undergraduate studies, and since then, I have passionately delved into various problems at the intersection of multimodal understanding and deep research. This endeavor has resulted in several published papers across diverse areas, reflecting my commitment to exploring new frontiers of knowledge.
 
-During my research journey, I have had the privilege of collaborating with researchers from some of the world's leading research groups, including **Google**, **Salesforce AI**, and **ServiceNow Research**. Since May 2024, I have been working as a visiting research scientist at [ServiceNow Research](https://www.servicenow.com/research/author/amirhossein-abaskohi.html), further expanding my research collaborations. These experiences have enriched my research perspective and broadened my understanding of cutting-edge developments in natural language processing.
+During my research journey, I have had the privilege of collaborating with researchers from some of the world's leading research groups, including **Google**, **Salesforce AI**, and **ServiceNow Research**. Since May 2024, I have been working as a visiting research scientist at ServiceNow Research, further expanding my research collaborations. These experiences have enriched my research perspective and broadened my understanding of cutting-edge developments in natural language processing.
 
 Beyond academia, I am enthusiastic about knowledge dissemination and community engagement. I actively share insights and discoveries through platforms like [Medium](https://medium.com/@amirhossein.abaskohi) and [YouTube](https://www.youtube.com/@amirhossein_abaskohi), fostering dialogue and knowledge exchange. In addition to my academic pursuits, I have honed my skills in software engineering through practical experiences. I have contributed to back-end development projects at reputable companies in Iran and Canada, including [System Group](https://en.systemgroup.net/) in Summer 2022 and [MateMachine](https://matemachine.com/) for one year since November 2022.
 
@@ -26,6 +26,8 @@ When I’m not working or studying, I love getting lost in the world of novels a
 I am happy to answer any questions and chat about research/collboration! Reach me at <a href="mailto:aabaskoh@cs.ubc.ca">aabaskoh@cs.ubc.ca</a>.
 
 ## News
+- 2026.01: Our paper *DRBench: A Realistic Benchmark for Enterprise Deep Research* was acceoted to [ICLR 2026](https://iclr.cc/Conferences/2026).
+- 2026.01: Our paper *StarFlow: Generating Structured Workflow Outputs From Sketch Images* was accepted to [EACL 2026](https://2026.eacl.org/).
 - 2025.08: Graduated with a Master’s degree in Computer Science from UBC 🥳🥳.
 - 2025.08: Three papers accepted to [EMNLP 2025](https://2025.emnlp.org/): **CEMTM** and **ChartGaze** (main proceedings), and **FM²DS** (Findings).
 - 2025.08: Our paper *AgentAda: Skill-Adaptive Data Analytics for Tailored Insight Discovery* received the **Outstanding Paper Award** at [REALM@ACL 2025](https://realm-workshop.github.io/). 
