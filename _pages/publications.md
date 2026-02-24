@@ -10,13 +10,21 @@ author_profile: true
 {% endif %}
 
 ## 2025
-[1] __Amirhossein Abaskohi__, Tianyi Chen, Miguel Muñoz-Mármol, Curtis Fox, Amrutha Varshini Ramesh, Étienne Marcotte, Xing Han Lù, Nicolas Chapados, Spandana Gella, Christopher Pal, Alexandre Drouin, Issam H. Laradji
+[1] __Amirhossein Abaskohi__, Tianyi Chen, Miguel Muñoz-Mármol, Curtis Fox, Amrutha Varshini Ramesh, Étienne Marcotte, Xing Han Lù, Nicolas Chapados, Spandana Gella, Peter West, Giuseppe Carenini, Christopher Pal, Alexandre Drouin, Issam H. Laradji
 
 **DRBench: A Realistic Benchmark for Enterprise Deep Research**
 
-arXiv preprint arXiv:2510.00172.
+ICLR 2026.
 
 [\[Paper\]](https://arxiv.org/abs/2510.00172) / [\[Code\]](https://github.com/ServiceNow/drbench)
+
+[2] Patrice Bechard, Chao Wang, __Amirhossein Abaskohi__, Juan Rodriguez, Christopher Pal, David Vazquez, Spandana Gella, Sai Rajeswar, Perouz Taslakian
+
+**StarFlow: Generating Structured Workflow Outputs From Sketch Images**
+
+EACL 2026.
+
+[\[Paper\]](https://arxiv.org/abs/2503.21889) / [\[Website (Code, Data, and Models)\]](https://servicenow.github.io/StarFlow/)
 
 [2] __Amirhossein Abaskohi__, Raymond Li, Chuyuan Li, Shafiq Joty, Giuseppe Carenini
 
