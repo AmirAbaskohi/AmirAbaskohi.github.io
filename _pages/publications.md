@@ -29,7 +29,7 @@ arXiv preprint arXiv:2606.31145
 
 **MCompassRAG: Topic Metadata as a Semantic Compass for Paragraph-Level Retrieval**
 
-arXiv preprint arXiv:2606.18508
+EMNLP 2026
 
 [\[Paper\]](https://arxiv.org/abs/2606.18508) / [\[Code\]](https://github.com/AmirAbaskohi/MCompassRAG)
 
@@ -37,7 +37,7 @@ arXiv preprint arXiv:2606.18508
 
 **SproutRAG: Attention-Guided Tree Search with Progressive Embeddings for Long-Document RAG**
 
-arXiv preprint arXiv:2606.18381
+EMNLP 2026
 
 [\[Paper\]](https://arxiv.org/abs/2606.18381) / [\[Code\]](https://github.com/AmirAbaskohi/SproutRAG)
 
@@ -53,7 +53,7 @@ arXiv preprint arXiv:2606.06622
 
 **ReVision: Scaling Computer-Use Agents via Temporal Visual Redundancy Reduction**
 
-arXiv preprint arXiv:2605.11212
+EMNLP 2026
 
 [\[Paper\]](https://arxiv.org/abs/2605.11212)
 
