@@ -6,9 +6,10 @@ author_profile: true
 ---
 University of British Columbia
 
-- **CPSC 422: Artificial Intelligence 2 - Intelligent Systems**, Instructor: Jordon Johnson, Spring 2026
+- **CPSC 423: Natural Language Processing**, Instructor: Vered Shwartz, Fall 2027
+- **CPSC 422: Intelligent Systems**, Instructor: Jordon Johnson, Spring 2026
 - **CPSC 213: Introduction to Computer Systems**, Instructor: Jordon Johnson, Fall 2025
-- **CPSC 422: Artificial Intelligence 2 - Intelligent Systems**, Instructor: Giuseppe Carenini, Spring 2025
+- **CPSC 422: Intelligent Systems**, Instructor: Giuseppe Carenini, Spring 2025
 - **CPSC 322: Introduction to Artificial Intelligence**, Instructor: Mehrdad Oveisi, Fall 2024
 - **CPSC 322: Introduction to Artificial Intelligence**, Instructor: Mehrdad Oveisi, Spring 2024
 - **CPSC 322: Introduction to Artificial Intelligence**, Instructor: Jordon Johnson, Fall 2023
@@ -24,6 +25,3 @@ University of Tehran
 - **Design and Analysis of Algorithms**, Instructor: Hamid Mahini, Spring 2021
 - **Engineering Probability and Statistics**, Instructor: Behnam Bahrak, Fall 2020
 - **Discrete Mathematics**, Instructor: Siamak Mohammadi, Spring 2020 & Fall 2020
-
-
-I really enjoy TAing!
