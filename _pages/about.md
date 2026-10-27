@@ -28,34 +28,34 @@ When I'm not working or studying, I love getting lost in the world of novels and
 I am happy to answer any questions and chat about research/collboration! Reach me at <a href="mailto:aabaskoh@cs.ubc.ca">aabaskoh@cs.ubc.ca</a>.
 
 ## News
-- 2026.09: Our paper *SEDIMA: Cross-Run Hierarchical Insight Memory for Evolutionary Search Agents* is recognized as a **Spotlight Paper** at [REALM Workshop at EMNLP 2026](https://realm-workshop.github.io/).
+- 2026.09: Our paper [*SEDIMA: Cross-Run Hierarchical Insight Memory for Evolutionary Search Agents*](https://aclanthology.org/2026.realm-1.62/) is recognized as a **Spotlight Paper** at [REALM Workshop at EMNLP 2026](https://realm-workshop.github.io/).
 - 2026.09: We have 2 papers accepted to [REALM Workshop at EMNLP 2026](https://realm-workshop.github.io/): [**DeepRewind**](https://aclanthology.org/2026.realm-1.73/) on predicting and repairing premature commitments in deep research agents, and [**SEDIMA**](https://aclanthology.org/2026.realm-1.62/) on cross-run hierarchical insight memory for evolutionary search agents.
 - 2026.08: We have 4 papers accepted to [EMNLP 2026](https://2026.emnlp.org/): 🏥 [**CLARUS**](https://aclanthology.org/2026.emnlp-main.2067/) on medical discharge summarization, 🔍 [**MCompassRAG**](https://aclanthology.org/2026.findings-emnlp.2169/) and [**SproutRAG**](https://aclanthology.org/2026.findings-emnlp.2175/) on efficient rag, and 🖥️ [**ReVision**](https://aclanthology.org/2026.findings-emnlp.2180/) on efficient CUA agents.
 - 2026-06: I have started my internship at Microsoft Research Redmond (3 months).
-- 2026.04: Our paper *Improving Topic Modeling by Distilling Soft Labels from Language Models* was accepted to [ICML 2026](https://icml.cc/Conferences/2026).
+- 2026.04: Our paper [*Improving Topic Modeling by Distilling Soft Labels from Language Models*](https://arxiv.org/abs/2602.17907) was accepted to [ICML 2026](https://icml.cc/Conferences/2026).
 - 2026.04: I will be attending ICLR 2026 in Rio and would be delighted to meet and connect with you there!
 - 2026.01: I have started my internship at Microsoft Research Asia - Vancouver (3 months).
-- 2026.01: Our paper *DRBench: A Realistic Benchmark for Enterprise Deep Research* was accepted to [ICLR 2026](https://iclr.cc/Conferences/2026).
-- 2026.01: Our paper *StarFlow: Generating Structured Workflow Outputs From Sketch Images* was accepted to [EACL 2026](https://2026.eacl.org/).
+- 2026.01: Our paper [*DRBench: A Realistic Benchmark for Enterprise Deep Research*](https://arxiv.org/abs/2510.00172) was accepted to [ICLR 2026](https://iclr.cc/Conferences/2026).
+- 2026.01: Our paper [*StarFlow: Generating Structured Workflow Outputs From Sketch Images*](https://arxiv.org/abs/2503.21889) was accepted to [EACL 2026](https://2026.eacl.org/).
 - 2025.11: I will be attending EMNLP 2025 in Suzhou and would be delighted to meet and connect with you there!
 - 2025.09: I have started my internship at ServiceNow Research (4 months).
 - 2025.08: I graduated with a Master’s degree in Computer Science from UBC 🥳🥳. I will start my PhD at UBC starting September 2025.
-- 2025.08: Three papers accepted to [EMNLP 2025](https://2025.emnlp.org/): **CEMTM** and **ChartGaze** (main proceedings), and **FM²DS** (Findings).
-- 2025.08: Our paper *AgentAda: Skill-Adaptive Data Analytics for Tailored Insight Discovery* received the **Outstanding Paper Award** at [REALM@ACL 2025](https://realm-workshop.github.io/). 
+- 2025.08: Three papers accepted to [EMNLP 2025](https://2025.emnlp.org/): [**CEMTM**](https://arxiv.org/abs/2509.11465) and [**ChartGaze**](https://www.arxiv.org/abs/2509.13282) (main proceedings), and [**FM²DS**](https://openreview.net/forum?id=KnjzylKUqQ) (Findings).
+- 2025.08: Our paper [*AgentAda: Skill-Adaptive Data Analytics for Tailored Insight Discovery*](https://arxiv.org/abs/2504.07421) received the **Outstanding Paper Award** at [REALM@ACL 2025](https://realm-workshop.github.io/). 
 - 2025.07: I will be attending ICML 2025 in Vancouver and would be delighted to meet and connect with you there!
-- 2025.05: *AgentAda: Skill-Adaptive Data Analytics for Tailored Insight Discovery* accepted to [REALM@ACL 2025](https://realm-workshop.github.io/) with an **oral presentation**.
+- 2025.05: [*AgentAda: Skill-Adaptive Data Analytics for Tailored Insight Discovery*](https://arxiv.org/abs/2504.07421) accepted to [REALM@ACL 2025](https://realm-workshop.github.io/) with an **oral presentation**.
 - 2025.04: I will be attending ICLR 2025 in Singapore and would be delighted to meet and connect with you there!
 - 2025.01: I have started my internship at ServiceNow Research (8 months).
-- 2025.01: 2/2 of my papers: *BigDocs* and *InsightBench* were accepted for [ICLR 2025](https://iclr.cc/Conferences/2025).
+- 2025.01: 2/2 of my papers: [*BigDocs*](https://openreview.net/forum?id=b1ivBPLb1n) and [*InsightBench*](https://arxiv.org/abs/2407.06423) were accepted for [ICLR 2025](https://iclr.cc/Conferences/2025).
 - 2024.11: I will be attending NeurIPS 2024 in Vancouver and would be delighted to meet and connect with you there!
 - 2024.10: I’m excited to serve as a publicity chair for the [Future of NLP Workshop](https://nlp.cs.ubc.ca/future-of-nlp-workshop), where I’ll also present my recent research. I look forward to sharing it with you!
-- 2024.10: Our paper entitled "BigDocs: An Open and Permissively-Licensed Dataset for Training Multimodal Models on Document and Code Tasks" has been accepted by [RBFM@NeurIPS2024](https://asu-apg.github.io/rbfm/).
+- 2024.10: Our paper entitled "[BigDocs: An Open and Permissively-Licensed Dataset for Training Multimodal Models on Document and Code Tasks](https://openreview.net/forum?id=b1ivBPLb1n)" has been accepted by [RBFM@NeurIPS2024](https://asu-apg.github.io/rbfm/).
 - 2024.05: I have started my internship at ServiceNow Research (8 months).
-- 2024.03: Our paper entitled "BCAmirs at SemEval-2024 Task 4: Beyond Words: A Multimodal and Multilingual Exploration of Persuasion in Memes" has been accepted by [SemEval@NAACL2024](https://semeval.github.io/SemEval2024/).
-- 2024.03: Our paper entitled "uTeBC-NLP at SemEval-2024 Task 9: Can LLMs be Lateral Thinkers?" has been accepted by [SemEval@NAACL2024](https://semeval.github.io/SemEval2024/).
-- 2024.02: Our paper titled *Benchmarking Large Language Models for Persian: A Preliminary Study Focusing on ChatGPT* has been accepted for presentation at [LREC-CoLing 2024](https://lrec-coling-2024.org/).
+- 2024.03: Our paper entitled "[BCAmirs at SemEval-2024 Task 4: Beyond Words: A Multimodal and Multilingual Exploration of Persuasion in Memes](https://arxiv.org/abs/2404.03022)" has been accepted by [SemEval@NAACL2024](https://semeval.github.io/SemEval2024/).
+- 2024.03: Our paper entitled "[uTeBC-NLP at SemEval-2024 Task 9: Can LLMs be Lateral Thinkers?](https://arxiv.org/abs/2404.02474)" has been accepted by [SemEval@NAACL2024](https://semeval.github.io/SemEval2024/).
+- 2024.02: Our paper titled [*Benchmarking Large Language Models for Persian: A Preliminary Study Focusing on ChatGPT*](https://arxiv.org/abs/2404.02403) has been accepted for presentation at [LREC-CoLing 2024](https://lrec-coling-2024.org/).
 - 2023.09: I started my Master's degree at UBC's CS Department 🥳🥳.
-- 2023.05: Our paper with the title *LM-CPPF: Paraphrasing-Guided Data Augmentation for Contrastive Prompt-Based Few-Shot Fine-Tuning* has been accepted for [ACL 2023](https://2023.aclweb.org/).
+- 2023.05: Our paper with the title [*LM-CPPF: Paraphrasing-Guided Data Augmentation for Contrastive Prompt-Based Few-Shot Fine-Tuning*](https://aclanthology.org/2023.acl-short.59.pdf) has been accepted for [ACL 2023](https://2023.aclweb.org/).
 
 ## Misc
 - My path into natural language processing began with a broader fascination: the origins of human language and how tongues have formed, spread, and transformed across history. That curiosity still shapes how I approach NLP, which sits at the intersection of linguistics, computer science, and AI. Two books capture this interest especially well for me, Guy Deutscher's *The Unfolding of Language*, on how grammatical structure emerges and evolves over time, and Nicholas Ostler's *Empires of the Word*, a sweeping history of how languages have risen and spread across civilizations.
