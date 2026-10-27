@@ -30,7 +30,7 @@ I am happy to answer any questions and chat about research/collboration! Reach m
 ## News
 - 2026.09: Our paper *SEDIMA: Cross-Run Hierarchical Insight Memory for Evolutionary Search Agents* is recognized as a **Spotlight Paper** at [REALM Workshop at EMNLP 2026](https://realm-workshop.github.io/).
 - 2026.09: We have 2 papers accepted to [REALM Workshop at EMNLP 2026](https://realm-workshop.github.io/): [**DeepRewind**](https://aclanthology.org/2026.realm-1.73/) on predicting and repairing premature commitments in deep research agents, and [**SEDIMA**](https://aclanthology.org/2026.realm-1.62/) on cross-run hierarchical insight memory for evolutionary search agents.
-- 2026.08: We have 4 papers accepted to [EMNLP 2026](https://2026.emnlp.org/): **CLARUS** on medical discharge summarization, **MCompassRAG** and **SproutRAG** on efficient rag, and **ReVision** on efficient CUA agents.
+- 2026.08: We have 4 papers accepted to [EMNLP 2026](https://2026.emnlp.org/): 🏥 [**CLARUS**](https://aclanthology.org/2026.emnlp-main.2067/) on medical discharge summarization, 🔍 [**MCompassRAG**](https://aclanthology.org/2026.findings-emnlp.2169/) and [**SproutRAG**](https://aclanthology.org/2026.findings-emnlp.2175/) on efficient rag, and 🖥️ [**ReVision**](https://aclanthology.org/2026.findings-emnlp.2180/) on efficient CUA agents.
 - 2026-06: I have started my internship at Microsoft Research Redmond (3 months).
 - 2026.04: Our paper *Improving Topic Modeling by Distilling Soft Labels from Language Models* was accepted to [ICML 2026](https://icml.cc/Conferences/2026).
 - 2026.04: I will be attending ICLR 2026 in Rio and would be delighted to meet and connect with you there!
