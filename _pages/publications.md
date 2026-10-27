@@ -131,7 +131,7 @@ EMNLP 2025
 
 EMNLP 2025
 
-[\[Paper\]](https://openreview.net/forum?id=KnjzylKUqQ) / [\[Code\]](https://github.com/ServiceNow/FM2DS) / [\[Website\]](https://fm2ds.github.io/) / [\[Huggingface\]](https://huggingface.co/datasets/AmirhosseinAbaskohi/M2QA_Bench)
+[\[Paper\]](https://arxiv.org/abs/2412.07030) / [\[Code\]](https://github.com/ServiceNow/FM2DS) / [\[Website\]](https://fm2ds.github.io/) / [\[Huggingface\]](https://huggingface.co/datasets/AmirhosseinAbaskohi/M2QA_Bench)
 
 [16] __Amirhossein Abaskohi__, Amrutha Varshini Ramesh, Shailesh Nanisetty, Chirag Goel, David Vazquez, Christopher Pal, Spandana Gella, Giuseppe Carenini, Issam H. Laradji
 

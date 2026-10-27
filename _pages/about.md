@@ -40,7 +40,7 @@ I am happy to answer any questions and chat about research/collboration! Reach m
 - 2025.11: I will be attending EMNLP 2025 in Suzhou and would be delighted to meet and connect with you there!
 - 2025.09: I have started my internship at ServiceNow Research (4 months).
 - 2025.08: I graduated with a Master’s degree in Computer Science from UBC 🥳🥳. I will start my PhD at UBC starting September 2025.
-- 2025.08: Three papers accepted to [EMNLP 2025](https://2025.emnlp.org/): [**CEMTM**](https://arxiv.org/abs/2509.11465) and [**ChartGaze**](https://www.arxiv.org/abs/2509.13282) (main proceedings), and [**FM²DS**](https://openreview.net/forum?id=KnjzylKUqQ) (Findings).
+- 2025.08: Three papers accepted to [EMNLP 2025](https://2025.emnlp.org/): [**CEMTM**](https://arxiv.org/abs/2509.11465) and [**ChartGaze**](https://www.arxiv.org/abs/2509.13282) (main proceedings), and [**FM²DS**](https://arxiv.org/abs/2412.07030) (Findings).
 - 2025.08: Our paper [*AgentAda: Skill-Adaptive Data Analytics for Tailored Insight Discovery*](https://arxiv.org/abs/2504.07421) received the **Outstanding Paper Award** at [REALM@ACL 2025](https://realm-workshop.github.io/). 
 - 2025.07: I will be attending ICML 2025 in Vancouver and would be delighted to meet and connect with you there!
 - 2025.05: [*AgentAda: Skill-Adaptive Data Analytics for Tailored Insight Discovery*](https://arxiv.org/abs/2504.07421) accepted to [REALM@ACL 2025](https://realm-workshop.github.io/) with an **oral presentation**.
