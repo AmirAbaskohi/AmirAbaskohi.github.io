@@ -6,7 +6,7 @@ author_profile: true
 ---
 University of British Columbia
 
-- **CPSC 423: Natural Language Processing**, Instructor: Vered Shwartz, Fall 2027
+- **CPSC 423: Natural Language Processing**, Instructor: Vered Shwartz, Fall 2026
 - **CPSC 422: Intelligent Systems**, Instructor: Jordon Johnson, Spring 2026
 - **CPSC 213: Introduction to Computer Systems**, Instructor: Jordon Johnson, Fall 2025
 - **CPSC 422: Intelligent Systems**, Instructor: Giuseppe Carenini, Spring 2025
