@@ -67,4 +67,4 @@ I am happy to answer any questions and chat about research/collboration! Reach m
 
 - I am a devoted horror fan, most of all in fiction. I have made my way through nearly all of Stephen King's books, and I am always happy to talk shop about them 📚. I am also deep into the Marvel universe, following it across both the films and the comics.
 
-- I am a big fan of gaming, especially story-driven titles that pull you into a rich narrative. Survival horror is my particular soft spot, where the tension and puzzles keep me hooked. If you are a gamer too, feel free to check out my [Steam profile](https://steamcommunity.com/profiles/76561199162754559)!
+- I am a big fan of gaming, especially story-driven titles that pull you into a rich narrative. Survival horror is my particular soft spot, where the tension and puzzles keep me hooked. If you are a gamer too, feel free to check out my [Steam](https://steamcommunity.com/profiles/76561199162754559) and [PSN](https://psnprofiles.com/therealrondond79) profiles!
